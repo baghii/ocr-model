@@ -1,6 +1,4 @@
-﻿setuptools==41.0.0
 gradio
-tensorflow
 numpy
 requests
 easyocr
